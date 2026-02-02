@@ -1,4 +1,4 @@
-# Salesforce NPSP Fundraising Database
+# Mock Salesforce NPSP Fundraising Database
 
 Built a nonprofit fundraising database in Salesforce NPSP. Imported a bunch of data, broke a bunch of things, fixed them, and made some reports.
 
