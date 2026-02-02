@@ -75,4 +75,3 @@ Line chart showing donation patterns over time.
 
 ---
 
-Portfolio project for Salesforce admin skills. Steal the CSV templates if you need them.
